@@ -1,0 +1,23 @@
+# Dependencies
+node_modules
+
+# testing
+/coverage
+
+# Dist
+dist
+.next
+
+# OS
+.DS_Store
+
+# Development Environment
+.vscode
+
+# Logs
+*.log
+.history
+/nbproject/private/
+.env.local
+.env
+.scannerwork
